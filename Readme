@@ -1,0 +1,118 @@
+# 🎬 AI Movie Studio: Life in 2050
+
+> An integrated Generative AI project exploring how AI will transform human life by 2050.
+
+## 📌 Project Status
+
+🚧 **Currently Under Development**
+
+This repository contains the development work for our Generative AI Integrated Project. The project is being built as part of our academic coursework and is actively updated throughout the development process.
+
+---
+
+## 📖 Project Overview
+
+This project demonstrates the integration of multiple Generative AI technologies to create a short AI-powered movie and an interactive website.
+
+Theme:
+**"Life in 2050: How AI Changes Human Life"**
+
+The project showcases the complete AI content creation pipeline, including idea generation, screenplay writing, prompt engineering, image generation, video generation, AI voice, music generation, and AI-assisted web development.
+
+---
+
+## 🚀 Features
+
+- AI-generated story and screenplay
+- Prompt engineering and optimization
+- AI-generated characters and scenes
+- AI-generated short film
+- AI voice narration
+- AI music and sound effects
+- Interactive movie webpage
+- Human review and AI output evaluation
+
+---
+
+## 🛠️ Technologies & AI Tools
+
+- HTML
+- CSS
+- JavaScript
+
+### Generative AI Tools
+- ChatGPT
+- Google Gemini
+- Meta AI
+- Nano Banana
+- Veo / Google Flow
+- AI Voice Generation Tools
+- AI Image Generation Tools
+
+*(Final list will be updated during project development.)*
+
+---
+
+## 📂 Project Structure
+
+```
+AI-Movie-Studio/
+│
+├── assets/
+│   ├── images/
+│   ├── audio/
+│   ├── video/
+│
+├── prompts/
+├── storyboard/
+├── website/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── documentation/
+└── README.md
+```
+
+---
+
+## 🎯 Project Objectives
+
+- Explore multiple Generative AI tools
+- Learn prompt engineering
+- Develop AI-assisted multimedia content
+- Build an interactive webpage
+- Evaluate AI-generated outputs with human improvements
+
+---
+
+## 📅 Current Progress
+
+- [ ] Idea Generation
+- [ ] Story Development
+- [ ] Prompt Engineering
+- [ ] Image Generation
+- [ ] Video Generation
+- [ ] Voice Generation
+- [ ] Music Generation
+- [ ] Website Development
+- [ ] Testing
+- [ ] Documentation
+
+---
+
+## 👥 Team
+
+Project developed as part of the **Generative AI Integrated Project Activity**.
+
+Team details will be updated soon.
+
+---
+
+## 📄 License
+
+This project is created for educational purposes only.
+
+---
+
+⭐ More updates coming soon...
