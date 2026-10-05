@@ -31,6 +31,7 @@ The objective is to develop a **60–90 second AI-generated short film** along w
 - Evaluate AI-generated outputs
 - Demonstrate Human-AI Collaboration
 
+
 ---
 
 # 🌍 Theme
