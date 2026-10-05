@@ -17,6 +17,7 @@ The project explores the theme:
 
 The objective is to develop a **60–90 second AI-generated short film** along with an **interactive website** by combining various Generative AI tools for story writing, prompt engineering, image generation, video generation, voice synthesis, music generation, and AI-assisted programming.
 
+
 ---
 
 # 🎯 Objectives
