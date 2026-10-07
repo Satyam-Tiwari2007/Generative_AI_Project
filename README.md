@@ -10,6 +10,7 @@
 
 #  Project Overview
 
+
 **AI Movie Studio: Life in 2050** is an academic Generative AI project that demonstrates how multiple AI technologies can be integrated to create a complete digital production pipeline.
 
 The project explores the theme:
