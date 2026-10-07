@@ -21,7 +21,7 @@ The objective is to develop a **60–90 second AI-generated short film** along w
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 - Compare different Generative AI tools
 - Learn Prompt Engineering
@@ -36,7 +36,7 @@ The objective is to develop a **60–90 second AI-generated short film** along w
 
 ---
 
-# 🌍 Theme
+# Theme
 
 ## **Life in 2050: How AI Changes Human Life**
 
@@ -44,7 +44,7 @@ Our selected context explores how Artificial Intelligence transforms everyday li
 
 ---
 
-# 🚀 Project Workflow
+#  Project Workflow
 
 Idea Generation
 
@@ -90,7 +90,7 @@ Presentation
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```
 Generative_AI_Project/
@@ -136,7 +136,7 @@ Generative_AI_Project/
 
 ---
 
-# 🛠️ Technologies Used
+# Technologies Used
 
 - HTML5
 - CSS3
@@ -144,7 +144,7 @@ Generative_AI_Project/
 
 ---
 
-# 🤖 Generative AI Tools
+# Generative AI Tools
 
 | Purpose | Tool |
 |----------|------|
@@ -158,7 +158,7 @@ Generative_AI_Project/
 
 ---
 
-# 📋 Features
+# Features
 
 - AI-generated screenplay
 - Prompt optimization
@@ -172,7 +172,7 @@ Generative_AI_Project/
 
 ---
 
-# 📸 Expected Deliverables
+#  Expected Deliverables
 
 ✅ 60–90 Second AI Movie
 
@@ -230,7 +230,7 @@ Generative_AI_Project/
 
 ---
 
-# 👥 Human Contribution
+#  Human Contribution
 
 Although AI assists throughout the project, every output is reviewed, refined, and improved by the team through:
 
@@ -243,9 +243,9 @@ Although AI assists throughout the project, every output is reviewed, refined, a
 
 ---
 
-# 📌 Project Status
+# Project Status
 
-🚧 Currently Under Development
+ Currently Under Development
 
 The repository will be updated regularly with:
 
@@ -258,13 +258,13 @@ The repository will be updated regularly with:
 
 ---
 
-# 📜 License
+#  License
 
 This repository is created **only for educational and academic purposes**.
 
 ---
 
-# 👨‍💻 Team
+# Team
 
 Developed as part of the **Generative AI Integrated Project Activity**.
 
